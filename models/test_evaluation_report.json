@@ -1,0 +1,11 @@
+{
+  "mae": 13.685368772225651,
+  "rmse": 18.203977317117502,
+  "r2": 0.8081008605617189,
+  "cmapss_score": 618.9379407565953,
+  "sample_count": 100,
+  "late_prediction_pct": 52.0,
+  "early_prediction_pct": 48.0,
+  "mean_late_error": 13.42114981881821,
+  "mean_early_error": 13.97160597175038
+}
